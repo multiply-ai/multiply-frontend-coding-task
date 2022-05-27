@@ -1,8 +1,6 @@
 Multiply Code Task
 ====================
 
-## Problem overview
-
 Multiply’s app uses a conversational interface to collect information. This task is to build a simple version of this in React. Please feel free to use Typescript or Javascript.
 
 ## Task
