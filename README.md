@@ -35,7 +35,7 @@ The “Done” button should appear when the conversation is otherwise complete,
 
 In particular, we’ll be looking out for clean logic and component reusability/extensibility.
 
-**Please send a zipped file of your code, including any comments to mike@multiply.ai.**
+**Please send a zipped file of your code, including any comments to andrew@multiply.ai.**
 
 
 Good luck!
